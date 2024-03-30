@@ -63,9 +63,11 @@ Overview of Web page:
 <img src='https://github.com/Haothai1/react-project5/assets/100315684/75f628e5-eb5f-4c8a-95bb-a2a6c3c68c61' title='Video Walkthrough' width='650' alt='Video Walkthrough' />
 
 
+
 - [x] **A search bar allows the user to search for an item in the fetched data**
 - [x] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
 <img src='https://github.com/Haothai1/react-project5/assets/100315684/6c7512af-f476-4244-981d-aa828b1eac2f' title='Video Walkthrough' width='650' alt='Video Walkthrough' />
+
 
 
 
@@ -75,6 +77,7 @@ The following **optional** features are implemented:
 - [x] Filters use different input types such as a text input, a selection, or a slider
 - [x] The user can enter specific bounds for filter values
 <img src='https://github.com/Haothai1/react-project5/assets/100315684/09eb0932-4988-40a4-9c52-c61c05e9b760' title='Video Walkthrough' width='650' alt='Video Walkthrough' />
+
 
 
 The following **additional** features are implemented (Shown in the gifs above):
