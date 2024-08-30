@@ -4,7 +4,8 @@ import Dashboard from './components/Dashboard';
 
 const BASE_URL = 'https://api.weatherbit.io/v2.0/forecast/daily';
 
-const API_KEY = import.meta.env.VITE_WEATHERBIT_API_KEY;
+// const API_KEY = import.meta.env.VITE_WEATHERBIT_API_KEY;
+const API_KEY = 'a9a0f58f41804d2b945c920db5f378dc';
 
 console.log('API Key:', API_KEY); // Add this line for debugging
 
