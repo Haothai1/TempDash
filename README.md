@@ -1,4 +1,4 @@
-# Web Development Project 5 - *TempDash*
+# Full-stack Web Development - *TempDash*
 
 Submitted by: **Hao Thai**
 
